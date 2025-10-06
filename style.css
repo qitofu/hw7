@@ -6,7 +6,7 @@
 }
 
 h1{
-color:blue;
+ color:blue;
 }
 
 img{
@@ -15,5 +15,13 @@ img{
 }
 
 .list {
-background-color: darkslateblue;
+ background-color: darkslateblue;
+}
+
+.fact{
+ color: white;
+}
+
+.fun{
+ font-style: italic;
 }
